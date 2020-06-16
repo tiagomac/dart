@@ -1,4 +1,5 @@
 import 'package:dartexamples/regex.dart';
+import 'package:dartexamples/trycatch.dart';
 
 import 'datehour.dart';
 
@@ -25,6 +26,8 @@ void main(List<String> arguments) {
   DateHour();
 
   Regex();
+
+  TryCatch();
 }
 
 example1() {
