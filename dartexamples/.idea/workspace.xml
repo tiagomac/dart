@@ -38,7 +38,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -64,7 +64,7 @@
       <method v="2" />
     </configuration>
     <configuration name="dartexamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/dartexamples.dart" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/dartexamples.dart" />
       <method v="2" />
     </configuration>
   </component>
@@ -80,7 +80,7 @@
       <updated>1592057415763</updated>
       <workItem from="1592057422377" duration="1019000" />
       <workItem from="1592062681049" duration="2758000" />
-      <workItem from="1592264214264" duration="1410000" />
+      <workItem from="1592264214264" duration="2894000" />
     </task>
     <servers />
   </component>

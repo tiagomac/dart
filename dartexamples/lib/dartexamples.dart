@@ -1,13 +1,16 @@
-import 'package:dartexamples/car.dart';
-import 'package:dartexamples/exStatic.dart';
+import 'loops.dart';
 
 void main(List<String> arguments) {
-  example1();
+//  example1();
+//
+//  var car = Car();
+//
+//  ExStatic.sayItFromStatic();
+//  ExStatic().sayItFromInstance();
+//
+//  Literals();
 
-  var car = Car();
-
-  ExStatic.sayItFromStatic();
-  ExStatic().sayItFromInstance();
+  Loops();
 }
 
 example1() {
