@@ -1,3 +1,5 @@
+import 'package:dartexamples/regex.dart';
+
 import 'datehour.dart';
 
 void main(List<String> arguments) {
@@ -21,6 +23,8 @@ void main(List<String> arguments) {
   assert(d.runtimeType == double);
 
   DateHour();
+
+  Regex();
 }
 
 example1() {
