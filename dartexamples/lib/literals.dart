@@ -1,5 +1,5 @@
-String literal1 = "Leteral1";
-var literalmap = {"fooKey": "fooValue"};
+String literal1 = 'Leteral1';
+var literalmap = {'fooKey': 'fooValue'};
 
 class Literals {
   Literals() {
