@@ -38,7 +38,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -80,7 +80,7 @@
       <updated>1592057415763</updated>
       <workItem from="1592057422377" duration="1019000" />
       <workItem from="1592062681049" duration="2758000" />
-      <workItem from="1592264214264" duration="2894000" />
+      <workItem from="1592264214264" duration="3542000" />
     </task>
     <servers />
   </component>

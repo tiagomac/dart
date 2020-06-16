@@ -1,3 +1,5 @@
+import 'datehour.dart';
+
 void main(List<String> arguments) {
 //  example1();
 //
@@ -10,7 +12,15 @@ void main(List<String> arguments) {
 
 //  Loops();
 
-  strExample();
+//  strExample();
+
+  var i = 1 + 320, d = 3.2 + 0.02;
+  print(i.runtimeType);
+  print(d.runtimeType);
+  assert(i.runtimeType == int);
+  assert(d.runtimeType == double);
+
+  DateHour();
 }
 
 example1() {
