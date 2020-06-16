@@ -1,5 +1,3 @@
-import 'loops.dart';
-
 void main(List<String> arguments) {
 //  example1();
 //
@@ -10,7 +8,9 @@ void main(List<String> arguments) {
 //
 //  Literals();
 
-  Loops();
+//  Loops();
+
+  strExample();
 }
 
 example1() {
@@ -36,4 +36,17 @@ example1() {
   }
 
   example4();
+}
+
+strExample() {
+  String test = "abc";
+  for (var i = 0; i < test.length; i++) {
+    print('example of string loop ${test[i]}');
+  }
+
+  print('-----');
+  print('example with substring loop');
+  for (var i = 0; i < test.length; i++) {
+    print('example with substring loop ${test.substring(i, i + 1)}');
+  }
 }
